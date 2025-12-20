@@ -1,16 +1,16 @@
 <!--🖼️Top Banner ->
-
+https://github.com/krono10935/.github/blob/main/profile/Banner.png?raw=true
 -->
 
 <p align="center">
-  <img src="./Banner.png">
+  <img src="https://github.com/krono10935/.github/blob/main/profile/Banner.png?raw=true">
 </p>
 
 <!--🖼️Logo and About--> 
 <div style="clear: both;"></div>
 <h2><a href="To come">Who are we?</a></h2>
 <div>
-    <img src="./KronoLogo.png"
+    <img src="https://github.com/krono10935/.github/blob/main/profile/KronoLogo.png?raw=true"
      width="100"
      height="100"
      align="left"
@@ -25,7 +25,7 @@
 <hr>
 <h2><a href="https://www.firstinspires.org/">What is FIRST Robotics?</a></h2>
 <div>
-  <img src="./FirstLogo.svg" height="129" width="172" align="right">
+  <img src="https://github.com/krono10935/.github/blob/main/profile/FirstLogo.svg?raw=true" height="129" width="172" align="right">
   <p>
     FIRST Robotics is a non-profit organization founded by inventor Dean Kamen in 1989 to inspire young people's interest and participation in science and technology. FIRST stands for "For Inspiration and Recognition of Science and Technology". The organization hosts several robotics competitions each year for students from around the world to demonstrate their engineering and problem-solving skills. 
   </p>
